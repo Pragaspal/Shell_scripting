@@ -38,4 +38,3 @@ while true; do
   # Sleep for a while before checking again (e.g., every 5 minutes)
   sleep 300
 done
-hashtag
